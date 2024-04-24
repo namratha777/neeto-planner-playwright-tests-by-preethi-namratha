@@ -1,0 +1,84 @@
+{
+  "cookies": [
+    {
+      "name": "__neetoauth_session",
+      "value": "2de58ece8475beb62ff71dee433d7b21",
+      "domain": "app.neetoauth.net",
+      "path": "/",
+      "expires": 1721732498.015656,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang",
+      "value": "en-US",
+      "domain": "app.neetoauth.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__neetoauth_session",
+      "value": "a155672c1214dd7ac7d46335abf25524",
+      "domain": "preethi-namratha-iiit-bhubaneshw.neetoauth.net",
+      "path": "/",
+      "expires": 1721732509.204049,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang",
+      "value": "en-US",
+      "domain": "preethi-namratha-iiit-bhubaneshw.neetoauth.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://preethi-namratha-iiit-bhubaneshw.neetoauth.net",
+      "localStorage": [
+        {
+          "name": "WIDGET_ENABLED_STATES",
+          "value": "{\"djGuPyUK7GPKEWibWYEjcvyK\":{\"replay\":false,\"chat\":true,\"changelog\":true},\"dkSGNrJLcofuXQAjmZG3B1La\":{\"chat\":false,\"changelog\":false,\"replay\":true}}"
+        },
+        {
+          "name": "queryCache",
+          "value": "{\"neeto-apps-list-acbf2d16-57b4-42a0-a368-45e89b15dc5b\":{\"data\":{\"neetoApps\":[{\"name\":\"Chat\",\"description\":\"Live chat & instant messaging\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetochat.net\",\"productionStatus\":\"public-production\"},{\"name\":\"Desk\",\"description\":\"Customer support & ticketing\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetodesk.net\",\"productionStatus\":\"public-production\"},{\"name\":\"KB\",\"description\":\"Knowledge Base to find answers\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetokb.net/admin\",\"productionStatus\":\"public-production\"},{\"name\":\"Form\",\"description\":\"Build forms and collect data\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetoform.net\",\"productionStatus\":\"public-production\"},{\"name\":\"Invoice\",\"description\":\"Invoicing & time tracking\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetoinvoice.net\",\"productionStatus\":\"public-production\"},{\"name\":\"Cal\",\"description\":\"Schedule meetings\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetocal.net/admin\",\"productionStatus\":\"public-production\"},{\"name\":\"Planner\",\"description\":\"Manage projects and todos\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetoplanner.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Replay\",\"description\":\"Watch customer activities\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetoreplay.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Quiz\",\"description\":\"Build quizzes\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetoquiz.net/admin\",\"productionStatus\":\"private-production\"},{\"name\":\"Wireframe\",\"description\":\"Build wireframes\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetowireframe.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Changelog\",\"description\":\"Inform customers of new updates\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetochangelog.net/admin\",\"productionStatus\":\"private-production\"},{\"name\":\"Runner\",\"description\":\"Coding assessments & technical interviews\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetorunner.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Course\",\"description\":\"Build & sell courses online\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetocourse.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Invisible\",\"description\":\"Watch how users interact with your products\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetoinvisible.net\",\"productionStatus\":\"private-production\"},{\"name\":\"CRM\",\"description\":\"Manage customers\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetocrm.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Testify\",\"description\":\"Manage manual & automated test cases\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetotestify.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Site\",\"description\":\"Build websites\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetosite.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Git\",\"description\":\"Automate GitHub activities\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetogit.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Record\",\"description\":\"Screen Recording\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetorecord.net\",\"productionStatus\":\"public-production\"},{\"name\":\"Trail\",\"description\":\"Create Trail of assets\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetotrail.net\",\"productionStatus\":\"private-production\"},{\"name\":\"Code\",\"description\":\"Coding platform\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetocode.net/login\",\"productionStatus\":\"private-production\"},{\"name\":\"Playdash\",\"description\":\"Playwright reporter\",\"url\":\"https://preethi-namratha-iiit-bhubaneshw.neetoplaydash.net\",\"productionStatus\":\"private-production\"}],\"isOwner\":true},\"modifiedAt\":1713956510650}}"
+        },
+        {
+          "name": "neeto-molecules-hidden-columns",
+          "value": "{\"state\":{},\"version\":0}"
+        },
+        {
+          "name": "neeto-ip-location-country-code",
+          "value": "{\"state\":{\"countryCode\":null},\"version\":0}"
+        }
+      ]
+    },
+    {
+      "origin": "https://app.neetoauth.net",
+      "localStorage": [
+        {
+          "name": "WIDGET_ENABLED_STATES",
+          "value": "{\"dkSGNrJLcofuXQAjmZG3B1La\":{\"chat\":false,\"changelog\":false,\"replay\":true},\"djGuPyUK7GPKEWibWYEjcvyK\":{\"replay\":false,\"chat\":true,\"changelog\":false}}"
+        },
+        {
+          "name": "neeto-molecules-hidden-columns",
+          "value": "{\"state\":{},\"version\":0}"
+        },
+        {
+          "name": "neeto-ip-location-country-code",
+          "value": "{\"state\":{\"countryCode\":null},\"version\":0}"
+        }
+      ]
+    }
+  ]
+}
