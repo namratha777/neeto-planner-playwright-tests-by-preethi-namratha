@@ -3,7 +3,7 @@
 import { test } from "../fixtures/fixtures.ts";
 import { faker } from "@faker-js/faker";
 
-test.describe("Tasks page", () => {
+test.describe("Projects page", () => {
   let projectName: string;
   let projectDescription: string;
   let otp: string;
@@ -17,7 +17,7 @@ test.describe("Tasks page", () => {
 
   });
 
-  test("should create a new task with creator as the assignee", async ({ loginPage, projectPage, page, }) => {
+  test("should create a new project", async ({ loginPage, projectPage, page, }) => {
     test.setTimeout(150000);
     await page.goto("https://app.neetoauth.net/login?redirect_uri=neetoplanner.net");
     await loginPage.enterEmail(email);
